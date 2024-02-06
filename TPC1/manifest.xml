@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+  <meta>
+    <title>TPC1: Exemplo</title>
+    <date>2024-02-06</date>
+    <author>
+        <id>a95076</id>
+        <nome>Pedro Oliveira</nome>
+    </author>
+  </meta>
+  <resumo>
+    <p>Primeiro parágrafo</p>
+    <p>Segundo parágrafo</p>
+    <p>Terceiro parágrafo com <url>link</url>
