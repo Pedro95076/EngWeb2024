@@ -12,3 +12,4 @@
 **N° de aluno:** a95076
 **Fotografia:**
 ![Fotografia do aluno](./fotografia.png)
+
